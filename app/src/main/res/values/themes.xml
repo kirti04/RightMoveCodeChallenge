@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:text">@color/berry</item>
+        <item name="android:textSize">@dimen/all_text</item>
+    </style>
+</resources>
